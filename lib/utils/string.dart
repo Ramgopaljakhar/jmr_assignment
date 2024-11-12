@@ -1,0 +1,9 @@
+String title = 'Search Flights';
+String flightdetails = 'BLR - Bengaluru to DXB - Dubai';
+String Filter = 'Filter';
+String nonStop = 'Non - Stop';
+String sort = 'Sort';
+String totalflight = '851 Flight Found';
+String onward = 'Onward - Garuda Indonesia';
+String aED409 = 'AED 409';
+String aED359 = 'AED 359';
